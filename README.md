@@ -1,2 +1,2 @@
 # py_study
-study_of_py
+some code during study of the python
